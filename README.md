@@ -13,3 +13,5 @@ HeadScale is a dynamic VPN solution that allows for peers to communicate with ea
 ### Lab screenshots:
 
 ![image](https://user-images.githubusercontent.com/26883110/221480327-e8c12013-b953-473a-8241-6395cddb2542.png)
+
+![image](https://user-images.githubusercontent.com/26883110/221480516-ddf5424d-a3b0-424e-8de0-20e176d04bd7.png)
