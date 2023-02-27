@@ -23,3 +23,7 @@ HeadScale is a dynamic VPN solution that allows peers to communicate with each o
 ## Pfsense OSPF over IPsec:
 
 ![diagram](./Pfsense_OSPF_over_IPsec/OSPF_over_Hub-in-Spoke-IPsec_VTI_Pfsense.drawio.svg)
+
+## Pfsense High Availability Dual WAN Active-Passive:
+
+![diagram](./Pfsense_HA_dual_WAN/Pfsense_HA_CARP-Page-1.drawio.svg)
