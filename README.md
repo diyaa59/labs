@@ -20,6 +20,10 @@ HeadScale is a dynamic VPN solution that allows peers to communicate with each o
 
 ![image](https://user-images.githubusercontent.com/26883110/221480516-ddf5424d-a3b0-424e-8de0-20e176d04bd7.png)
 
+## NET year 2 capstone sandbox environment:
+
+![diagram](./NET_Year_2_Sandbox_Environment/NET_Year2_Capstone_sandbox.drawio.svg)
+
 ## Pfsense OSPF over IPsec:
 
 ![diagram](./Pfsense_OSPF_over_IPsec/OSPF_over_Hub-in-Spoke-IPsec_VTI_Pfsense.drawio.svg)
