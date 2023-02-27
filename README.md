@@ -4,7 +4,7 @@ This repository contains the diagrams of all projects that I have made to learn 
 
 ## Homelab 2021:
 
-![diagram](./Homelab/2021/Home_Network-Primary_Slide.jpg)
+![diagram](./Homelab/2021/Home_Network-Primary_Slide.drawio.svg)
 
 ## HeadScale:
 
