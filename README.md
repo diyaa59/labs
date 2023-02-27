@@ -27,3 +27,7 @@ HeadScale is a dynamic VPN solution that allows peers to communicate with each o
 ## Pfsense High Availability Dual WAN Active-Passive:
 
 ![diagram](./Pfsense_HA_dual_WAN/Pfsense_HA_CARP-Page-1.drawio.svg)
+
+## Pfsense Common Address Redundancy Protocol (CARP) with OSPF:
+
+![diagram](./Pfsense_CARP_With_OSPF/Pfsense_CARP_with_Single_Area_OSPF-Page-1.drawio.svg)
