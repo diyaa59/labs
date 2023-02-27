@@ -2,7 +2,7 @@
 
 This repository contains the diagrams of all projects that I have made to learn about new technologies.
 
-# Homelab 2021:
+## Homelab 2021:
 
 ![diagram](./Homelab/2021/Home_Network-Primary_Slide.jpg)
 
@@ -19,3 +19,7 @@ HeadScale is a dynamic VPN solution that allows peers to communicate with each o
 ![image](https://user-images.githubusercontent.com/26883110/221480327-e8c12013-b953-473a-8241-6395cddb2542.png)
 
 ![image](https://user-images.githubusercontent.com/26883110/221480516-ddf5424d-a3b0-424e-8de0-20e176d04bd7.png)
+
+## Pfsense OSPF over IPsec:
+
+![diagram](./Pfsense_OSPF_over_IPsec/OSPF_over_Hub-in-Spoke-IPsec_VTI_Pfsense.drawio.svg)
