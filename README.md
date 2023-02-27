@@ -8,7 +8,7 @@ HeadScale is a dynamic VPN solution that allows peers to communicate with each o
 
 ### Diagram:
 
-![diagram](./HeadScale_Research_Project.drawio.svg)
+![diagram](./HeadScale-lab/HeadScale_Research_Project.drawio.svg)
 
 ### Lab screenshots:
 
