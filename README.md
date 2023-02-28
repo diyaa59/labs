@@ -51,6 +51,28 @@ The following open-source solutions are used:
 
 ---
 
+## NET Classroom Lab Environment:
+
+This diagram replaces all the small labs that work on top of each other in the first term of the second year of the NET program.
+
+I have worked on all these labs with [Anil Mehrotra](https://www.linkedin.com/in/anil-mehrotra-4a5475266/).
+
+Things we have learned:
+
+- How to setup site to site Virtual Private Network (VPN) tunnels.
+- How to capture traffic and analyze it with Wireshark.
+- How to implement light weight Access Point (AP) through a wireless controller.
+- How to implement an autonomous Access Point (AP).
+- How to implement RADIUS for centralized authentication for the network equipment.
+- How to implement a SIP based (open standard) Voice Over IP (VoIP) solution. This is the part for the phones.
+- How to configure firewall rules.
+- How to isolate guest network traffic from corporate network traffic.
+- How to setup a VPN gateway on the edge of the network for remote (off site) users.
+
+![diagram](./NET_Classroom_Lab_Environment/Classroom_Environment.drawio.svg)
+
+---
+
 ## Pfsense OSPF over IPsec:
 
 This lab got me to understand better how OSPF would work over an IPsec VPN tunnel. I use and prefer OSPF as a top preference when I am required to do routing in a lab environment.
