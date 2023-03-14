@@ -2,6 +2,8 @@
 
 This repository contains the diagrams of all projects that I have made to learn about new technologies. I try to use open-source technologies to unlock the software's full potential and explore more features.
 
+I am a Network Engineering Technology Student at NAIT. We learn about different aspects of IT including cloud infrastructure, core networking, networking protocols, and server administration.
+
 ---
 
 ## Latest updates:
@@ -13,6 +15,14 @@ Check out my latest Video for a research project.
 NETW2300 is a course where we focus on network analysis and look at application data in a network analyzer like Wireshark for more in-depth analysis.
 
 [NETW2300 - Wireguard Protocol Research Project](https://youtube.com/live/tQCs9wlxhs0?feature=share)
+
+---
+
+## VMware Private cloud project:
+
+This was one of the most significant projects that I had to work on in my COMP2000 course in NET. In this project, students had to build their own private cloud infrastructure and host websites for other students to demonstrate connectivity over a simulated ISP environment. [Zerotier peer-to-peer mesh VPN](https://www.zerotier.com/) connected the private clouds.
+
+![diagram](VMware_Private_Cloud_Project/VMware_Private_Cloud_Diyaa_Alkanakre_COMP2000.drawio.svg)
 
 ---
 
