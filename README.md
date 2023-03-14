@@ -2,6 +2,20 @@
 
 This repository contains the diagrams of all projects that I have made to learn about new technologies. I try to use open-source technologies to unlock the software's full potential and explore more features.
 
+---
+
+## Latest updates:
+
+### Youtube:
+
+Check out my latest Video for a research project.
+
+NETW2300 is a course where we focus on network analysis and look at application data in a network analyzer like Wireshark for more in-depth analysis.
+
+[NETW2300 - Wireguard Protocol Research Project](https://youtube.com/live/tQCs9wlxhs0?feature=share)
+
+---
+
 ## Homelab 2021:
 
 ![diagram](./Homelab/2021/Home_Network-Primary_Slide.drawio.svg)
