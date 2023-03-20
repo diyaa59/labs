@@ -6,15 +6,21 @@ I am a Network Engineering Technology Student at NAIT. We learn about different 
 
 ---
 
-## Latest updates:
+# Latest updates:
 
-### Youtube:
+## Youtube:
 
-Check out my latest Video for a research project.
+### Wireguard protocol analysis:
 
-NETW2300 is a course where we focus on network analysis and look at application data in a network analyzer like Wireshark for more in-depth analysis.
+The course NETW2300 focuses on network analysis, where we use tools like Wireshark to analyze application data for a more in-depth understanding of network behavior.
 
-[NETW2300 - Wireguard Protocol Research Project](https://youtube.com/live/tQCs9wlxhs0?feature=share)
+[NETW2300 - Wireguard Protocol Research Project](https://youtube.com/live/tQCs9wlxhs0)
+
+### VMware workstation pro vmxnet3 virtual network device:
+
+Since I began using it, I have been interested in tagging VLANs on a Windows 10 client VM in VMware Workstation. In this video, I demonstrate how to tag VLANs on the network adapter for a Windows 10 client VM by changing the network adapter to vmxnet3.
+
+[VMXNET3 network adapter type in VMware workstation pro](https://youtube.com/live/ICRd_e4jr9w)
 
 ---
 
